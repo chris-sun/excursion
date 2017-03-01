@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-family: Verdana;
+}
+
+#header h1 {
+  font-weight: bold;
+  font-size: 50px;
+}
+
+a.download-link {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.mini-header {
+  font-weight: bold;
+  font-size: 42px;
+}
+
+p.mini-desc {
+  font-size: 21px;
+  color: gray;
+}
+
+#footer {
+  text-align: right;
+  color: gray;
+}
+
+#camp-container {
+  margin-bottom: 20px;
+}
